@@ -27,17 +27,6 @@ The **AI-Based Software Requirements Specification (SRS) Quality Analyzer** is a
 - Machine Learning
 - SQLite / MySQL
 
-## 📁 Repository Structure
-```
-AI-Based-SRS-Analyzer/
-│── README.md
-│── LICENSE
-│── SRS_Document/
-│── Diagrams/
-│── Images/
-└── Future_Work.md
-```
-
 ## 🚀 Future Enhancements
 - Multi-language SRS analysis
 - IEEE SRS compliance checking
@@ -49,7 +38,7 @@ AI-Based-SRS-Analyzer/
 **Current Phase:** Software Requirements Specification (SRS)
 
 ## 👨‍💻 Author
-**Your Name**
+**Upain Pathania**
 
 ## 📜 License
 This project is licensed under the **Apache License 2.0**.
